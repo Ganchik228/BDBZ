@@ -1,0 +1,10 @@
+[project]
+name = "bz"
+version = "0.1.0"
+description = "Система рекомендаций компьютерных игр с экспертной системой"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "customtkinter>=5.2.0",
+    "pillow>=10.0.0"
+]
