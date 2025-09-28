@@ -1,4 +1,4 @@
-#Для запуска через uv#
+# Для запуска через uv #
 
 Тут документация
 ```
@@ -19,7 +19,7 @@ uv run main.py
 ```
 
 
-#Через pip# 
+# Через pip # 
 ```
 pip install -r requirements.txt
 ```
