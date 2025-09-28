@@ -1,4 +1,4 @@
-Для запуска через uv 
+Для запуска через uv\n 
 Тут документация
 ```
 https://docs.astral.sh/uv/getting-started/installation/
