@@ -1,4 +1,5 @@
-Для запуска через uv\n 
+#Для запуска через uv#
+
 Тут документация
 ```
 https://docs.astral.sh/uv/getting-started/installation/
@@ -18,7 +19,7 @@ uv run main.py
 ```
 
 
-через pip 
+#Через pip# 
 ```
 pip install -r requirements.txt
 ```
